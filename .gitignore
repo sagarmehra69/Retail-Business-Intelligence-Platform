@@ -1,7 +1,22 @@
+# Data
+data/raw/
+data/processed/
+
+# Python
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
 .env
+
+# VS Code
 .vscode/
-.idea/
+
+# OS files
 .DS_Store
+Thumbs.db
